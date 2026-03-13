@@ -188,7 +188,7 @@ Utilized several React hooks for efficient state management and dynamic behavior
 # Contact Page
 <img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/contact.png' />
 
-# Forgot passwornd
+# Forgot password
 <img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/forgot%20pass.png' />
 
 # Dashboard
