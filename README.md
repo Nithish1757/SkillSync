@@ -188,7 +188,7 @@ Utilized several React hooks for efficient state management and dynamic behavior
 # Contact Page
 <img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/contact.png' />
 
-# Forgot password
+# Forgot Password
 <img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/forgot%20pass.png' />
 
 # Dashboard
@@ -213,7 +213,7 @@ Utilized several React hooks for efficient state management and dynamic behavior
 # Add Review
 <img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/add%20review.png' />
 
-# Cart1
+# Cart 1
 <img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/cart1.png' />
 
 
