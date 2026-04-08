@@ -3,7 +3,7 @@ import { Link, matchPath, useLocation } from "react-router-dom";
 import { useSelector } from "react-redux";
 
 import { NavbarLinks } from "../../../data/navbar-links";
-import SkillSync from "../../assets/Logo/SkillSync.png";
+import SkillSyncLogo from "../../assets/LOGO/Logo-Full-Light.png";
 import { fetchCourseCategories } from "./../../services/operations/courseDetailsAPI";
 
 import ProfileDropDown from "../core/Auth/ProfileDropDown";
@@ -78,12 +78,12 @@ const Navbar = () => {
         {/* logo */}
         <Link to="/" className="flex items-center gap-2">
           <img
-            src={SkillSync}
-            alt="SkillSync Logo"
+            src={SkillSync - Nithish}
+            alt="SkillSync-Nithish Logo"
             className="h-10 w-auto object-contain"
           />
           <span className="text-xl font-semibold text-white hidden sm:block">
-            SkillSync
+            SkillSync - Nithish
           </span>
         </Link>
 
