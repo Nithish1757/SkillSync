@@ -78,12 +78,12 @@ const Navbar = () => {
         {/* logo */}
         <Link to="/" className="flex items-center gap-2">
           <img
-            src={SkillSync - Nithish}
+            src={SkillSyncLogo}
             alt="SkillSync-Nithish Logo"
             className="h-10 w-auto object-contain"
           />
           <span className="text-xl font-semibold text-white hidden sm:block">
-            SkillSync - Nithish
+            SkillSync-
           </span>
         </Link>
 

@@ -240,7 +240,7 @@ const Footer = () => {
                 target="__blank"
                 className="text-white hover:underline mr-1"
               >
-                Nithish
+                Nithish &Pooja
               </Link>
             </div>
             <span> © 2023 Studynotion</span>
