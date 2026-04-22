@@ -1,4 +1,5 @@
 // 🔥 VERY IMPORTANT: Load env FIRST
+require("dns").setDefaultResultOrder("ipv4first");
 require("dotenv").config();
 
 const express = require("express");
@@ -61,5 +62,5 @@ app.get("/", (req, res) => {
 // server start
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
-  console.log(`Server Started on PORT ${PORT}`);
+  console.log(`http://localhost:5173/`);
 });
