@@ -236,19 +236,19 @@ const Footer = () => {
               <span> Made with ❤️</span>
 
               <Link
-                to="https://github.com/Aniruddha-Gade"
+                to="https://github.com/Nithish1757"
                 target="__blank"
                 className="text-white hover:underline mr-1"
               >
                 Nithish &Pooja
               </Link>
             </div>
-            <span> © 2023 Studynotion</span>
+            <span> © 2026 Studynotion</span>
           </div>
 
           <div className="flex items-center">
             <a
-              href="https://www.linkedin.com/in/aniruddha-gade-a48800231/"
+              href="https://www.linkedin.com/in/nithish-raj-hm-247aa1350/"
               className="text-white p-3 hover:bg-richblack-700 rounded-full duration-300"
               target="_blank"
               rel="noopener noreferrer"
@@ -256,7 +256,7 @@ const Footer = () => {
               <ImLinkedin2 size={17} />
             </a>
             <a
-              href="https://www.github.com/Aniruddha-Gade"
+              href="https://github.com/Nithish1757"
               className="text-white p-3 hover:bg-richblack-700 rounded-full duration-300"
               target="_blank"
               rel="noopener noreferrer"
