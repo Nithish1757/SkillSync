@@ -233,7 +233,7 @@ const Footer = () => {
 
           <div className="text-center flex flex-col sm:flex-row ">
             <div className="flex ">
-              <span> Made with ❤️</span>
+              <span> Made with </span>
 
               <Link
                 to="https://github.com/Nithish1757"
@@ -243,7 +243,7 @@ const Footer = () => {
                 Nithish &Pooja
               </Link>
             </div>
-            <span> © 2026 Studynotion</span>
+            <span> © 2026 SkillSync</span>
           </div>
 
           <div className="flex items-center">
